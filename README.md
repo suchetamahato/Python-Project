@@ -1,6 +1,6 @@
 # PRODUCT SALES DATA ANALYSIS WITH PYTHON
 
-This project follows a structured approach to data analysis, including data cleaning and visualization, to gain insights into the Diwali Sales Dataset. It effectively uses Python libraries for data manipulation and visualization to present meaningful conclusions.
+In this project, I followed a structured approach to data analysis, including data cleaning and visualization, to gain insights into the Product Sales Dataset. I effectively used Python libraries for data manipulation and visualization to present meaningful conclusions.
 
 # Steps Followed:
 
