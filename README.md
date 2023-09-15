@@ -54,5 +54,5 @@ In this project, I followed a structured approach to data analysis, including da
 
 🔎 **Product Category**: The most sold products are from the Food, Clothing, and Electronics categories.
 
-These findings provide valuable insights into the characteristics of buyers and their preferences in the Diwali Sales Dataset. This kind of analysis can be valuable for businesses looking to target their products or marketing efforts more effectively.
+These findings provide valuable insights into the characteristics of buyers and their preferences in the Product Sales Dataset. This kind of analysis can be valuable for businesses looking to target their products or marketing efforts more effectively.
 
