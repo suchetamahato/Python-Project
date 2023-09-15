@@ -25,3 +25,17 @@ This project follows a structured approach to data analysis, including data clea
 🔸**Product Category Analysis**: Counts are analyzed by product category, and a bar plot is created. Insights are drawn about the most sold product categories.
 
 🔸**Top Sold Products**: The top 10 most sold products are identified and plotted using a bar plot.
+
+# Insights:
+
+🔹Women are more active buyers compared to men [Orders- 69.87%, Amount/ Sales- 69.96%]
+
+🔹Buyers of age group (26-35) years is maximum contributing [Orders- 40.70%, Amount/ Sales- 40.11%]
+
+🔹Most of the total orders, and total sales/ amount are from Uttar Pradesh, Maharashtra, and Karnataka [Orders- 42.36%, Amount/ Sales- 44.55%]
+
+🔹Most of the buyers are married [Orders- 58.05%, Amount/ Sales- 58.47%]
+
+🔹Most of the buyers are working in the IT, Healthcare, and Aviation sector [Orders- 38.14%, Amount/ Sales- 38.02%]
+
+🔹Most of the sold products are from the clothing, food, and electronics category [Orders- 64.20%, Amount/ Sales- 62.18%]
