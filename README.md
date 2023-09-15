@@ -2,7 +2,7 @@
 
 In this project, I followed a structured approach to data analysis, including data cleaning and visualization, to gain insights into the Product Sales Dataset. I effectively used Python libraries for data manipulation and visualization to present meaningful conclusions.
 
-# Steps Followed:
+# Steps Followed
 
 🔸**Importing Libraries**: The code starts by importing necessary Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualization.
 
@@ -26,7 +26,7 @@ In this project, I followed a structured approach to data analysis, including da
 
 🔸**Top Sold Products**: The top 10 most sold products are identified and plotted using a bar plot.
 
-# Insights:
+# Insights
 
 🔹Women are more active buyers compared to men [Orders- 69.87%, Amount/ Sales- 69.96%]
 
@@ -40,7 +40,7 @@ In this project, I followed a structured approach to data analysis, including da
 
 🔹Most of the sold products are from the clothing, food, and electronics category [Orders- 64.20%, Amount/ Sales- 62.18%]
 
-# Conclusion:
+# Conclusion
 
 🔎 **Gender**: Most of the buyers are females, and they have a higher purchasing power compared to men.
 
