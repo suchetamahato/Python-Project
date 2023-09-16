@@ -4,27 +4,49 @@ In this project, I followed a structured approach to data analysis, including da
 
 # Steps Followed
 
-🔸**Importing Libraries**: The code starts by importing necessary Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualization.
+🔸**Importing Libraries**
 
-🔸**Loading Data**: It reads a CSV file ('Diwali Sales Dataset.csv') into a Pandas DataFrame ('df') using `pd.read_csv()`. It checks the shape, the first few rows, and general information about the dataset using `df.shape`, `df.head()`, and `df.info()`.
+The code starts by importing necessary Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualization.
 
-🔸**Data Cleaning**: Dropped Unrelated or unnecessary columns ('Status' and 'unnamed1') using `df.drop()`. I checked null values using `pd.isnull(df).sum()` and dropped using `df.dropna()`. I also converted data types, e.g., changing the 'Amount' column to integer using `.astype()`.
+🔸**Loading Data**
 
-🔸**Data Exploration (EDA)**: Exploratory Data Analysis begins with a focus on different aspects of the dataset.
+It reads a CSV file ('Diwali Sales Dataset.csv') into a Pandas DataFrame ('df') using `pd.read_csv()`. It checks the shape, the first few rows, and general information about the dataset using `df.shape`, `df.head()`, and `df.info()`.
 
-🔸**Gender Analysis**: Counts and total amounts are analyzed by gender, and bar plots are created. Insights are drawn about the gender distribution and purchasing power.
+🔸**Data Cleaning**
 
-🔸**Age Analysis**: Counts and total amounts are analyzed by age group and gender, and bar plots are created. Insights are drawn about the age group distribution of buyers.
+I dropped Unrelated or unnecessary columns ('Status' and 'unnamed1') using `df.drop()`. I checked null values using `pd.isnull(df).sum()` and dropped using `df.dropna()`. I also converted data types, e.g., changing the 'Amount' column to integer using `.astype()`.
 
-🔸**State Analysis**: Total orders and total sales are analyzed for the top 10 states. Bar plots provide insights into the most active states in terms of orders and sales.
+🔸**Data Exploration (EDA)**
 
-🔸**Marital Status Analysis**: Counts are analyzed by marital status, and a bar plot is created. Insights are drawn about the marital status of buyers and their purchasing power, with a focus on gender.
+Exploratory Data Analysis begins with a focus on different aspects of the dataset.
 
-🔸**Occupation Analysis**: Counts are analyzed by occupation, and a bar plot is created. Insights are drawn about the occupation distribution of buyers.
+🔸**Gender Analysis**
 
-🔸**Product Category Analysis**: Counts are analyzed by product category, and a bar plot is created. Insights are drawn about the most sold product categories.
+Counts and total amounts are analyzed by gender, and bar plots are created. Insights are drawn about the gender distribution and purchasing power.
 
-🔸**Top Sold Products**: The top 10 most sold products are identified and plotted using a bar plot.
+🔸**Age Analysis**
+
+Counts and total amounts are analyzed by age group and gender, and bar plots are created. Insights are drawn about the age group distribution of buyers.
+
+🔸**State Analysis**
+
+Total orders and total sales are analyzed for the top 10 states. Bar plots provide insights into the most active states in terms of orders and sales.
+
+🔸**Marital Status Analysis**
+
+Counts are analyzed by marital status, and a bar plot is created. Insights are drawn about the marital status of buyers and their purchasing power, with a focus on gender.
+
+🔸**Occupation Analysis**
+
+Counts are analyzed by occupation, and a bar plot is created. Insights are drawn about the occupation distribution of buyers.
+
+🔸**Product Category Analysis**
+
+Counts are analyzed by product category, and a bar plot is created. Insights are drawn about the most sold product categories.
+
+🔸**Top Sold Products**
+
+The top 10 most sold products are identified and plotted using a bar plot.
 
 # Insights
 
@@ -42,17 +64,29 @@ In this project, I followed a structured approach to data analysis, including da
 
 # Conclusion
 
-🔎 **Gender**: Most of the buyers are females, and they have a higher purchasing power compared to men.
+🔎 **Gender**
 
-🔎 **Age**: The majority of buyers fall into the 26-35 years age group, and they are predominantly female.
+Most of the buyers are females, and they have a higher purchasing power compared to men.
 
-🔎 **State**: The highest number of orders and total sales/amount are from Uttar Pradesh, Maharashtra, and Karnataka.
+🔎 **Age**
 
-🔎 **Marital Status**: Married women are the most common buyers, and they tend to have a higher purchasing power.
+The majority of buyers fall into the 26-35 years age group, and they are predominantly female.
 
-🔎 **Occupation**: Most buyers work in the IT, Healthcare, and Aviation sectors.
+🔎 **State**
 
-🔎 **Product Category**: The most sold products are from the Food, Clothing, and Electronics categories.
+The highest number of orders and total sales/amount are from Uttar Pradesh, Maharashtra, and Karnataka.
 
-These findings provide valuable insights into the characteristics of buyers and their preferences in the Product Sales Dataset. This kind of analysis can be valuable for businesses looking to target their products or marketing efforts more effectively.
+🔎 **Marital Status**
+
+Married women are the most common buyers, and they tend to have a higher purchasing power.
+
+🔎 **Occupation**
+
+Most buyers work in the IT, Healthcare, and Aviation sectors.
+
+🔎 **Product Category**
+
+The most sold products are from the Food, Clothing, and Electronics categories.
+
+These findings provide valuable insights into the characteristics of buyers and their preferences in the Product Sales Dataset. 
 
