@@ -10,7 +10,7 @@ The code starts by importing necessary Python libraries, including NumPy, Pandas
 
 🔸**Loading Data**
 
-It reads a CSV file ('Diwali Sales Dataset.csv') into a Pandas DataFrame ('df') using `pd.read_csv()`. It checks the shape, the first few rows, and general information about the dataset using `df.shape`, `df.head()`, and `df.info()`.
+It reads a CSV file ('Dataset.csv') into a Pandas DataFrame ('df') using `pd.read_csv()`. It checks the shape, the first few rows, and general information about the dataset using `df.shape`, `df.head()`, and `df.info()`.
 
 🔸**Data Cleaning**
 
